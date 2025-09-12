@@ -27,7 +27,7 @@ pip install xgboost shap numpy pandas matplotlib
 python3 simulation.py --output-folder ./cikti
 
 # (İsteğe bağlı parametreler)
-python3 simulation.py --output-folder ./cikti --n 500 --seed 42 --dpi 200
+python3 simulation.py --output-folder ./cikti --n 500 --seed 1881 --dpi 200
 ```
 
 ---
